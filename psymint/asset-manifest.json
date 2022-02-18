@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/psymint/static/css/main.129aa1fd.chunk.css",
+    "main.js": "/psymint/static/js/main.d1a11033.chunk.js",
+    "main.js.map": "/psymint/static/js/main.d1a11033.chunk.js.map",
+    "runtime-main.js": "/psymint/static/js/runtime-main.73e1cc63.js",
+    "runtime-main.js.map": "/psymint/static/js/runtime-main.73e1cc63.js.map",
+    "static/js/2.ef956e90.chunk.js": "/psymint/static/js/2.ef956e90.chunk.js",
+    "static/js/2.ef956e90.chunk.js.map": "/psymint/static/js/2.ef956e90.chunk.js.map",
+    "static/js/3.8dfcd814.chunk.js": "/psymint/static/js/3.8dfcd814.chunk.js",
+    "static/js/3.8dfcd814.chunk.js.map": "/psymint/static/js/3.8dfcd814.chunk.js.map",
+    "index.html": "/psymint/index.html",
+    "static/css/main.129aa1fd.chunk.css.map": "/psymint/static/css/main.129aa1fd.chunk.css.map",
+    "static/js/2.ef956e90.chunk.js.LICENSE.txt": "/psymint/static/js/2.ef956e90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e1cc63.js",
+    "static/js/2.ef956e90.chunk.js",
+    "static/css/main.129aa1fd.chunk.css",
+    "static/js/main.d1a11033.chunk.js"
+  ]
+}
